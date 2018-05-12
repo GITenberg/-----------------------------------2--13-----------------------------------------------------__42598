@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/342
     wikipedia: http://en.wikipedia.org/wiki/Plutarch
 description: Parallel lives - Volume 2
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42598#-----------------------------------2--13-----------------------------------------------------_
 gutenberg_issued: '2013-04-26'
 gutenberg_type: Text
 identifiers:
